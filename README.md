@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Akash Shinde</h1>
 
-<!--
-**Akashshinde84/Akashshinde84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI/ML Engineer | Final Year B.Tech AIML Student
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Building AI-powered solutions that solve real-world problems.
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Generative+AI+Developer;Building+RAG+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+</p>
